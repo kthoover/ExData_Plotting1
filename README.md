@@ -1,8 +1,10 @@
-## Introduction
-
-# Information for Student Graders
+## Information for Student Graders
 
 All R code is in the folder RCode.  All four plot are in the folder MyPlots.
+
+
+
+# Introduction
 
 
 
